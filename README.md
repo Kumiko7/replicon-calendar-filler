@@ -3,4 +3,4 @@ Python and Tampermonkey scripts for filling Replicon timesheets from Outlook cal
 
 1. Add Replicon Calendar Importer.user.js as a Tampermonkey script.
 2. Run calendar_server.bat
-3. In Replicon press the 
+3. In Replicon press the button to pull the data from the Outlook calendar automatically.
