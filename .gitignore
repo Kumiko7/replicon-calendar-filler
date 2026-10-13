@@ -1,0 +1,4 @@
+# Personal settings (project mappings, rules) - copy from config.example.py
+config.py
+__pycache__/
+*.bak
